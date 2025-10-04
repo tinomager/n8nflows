@@ -78,7 +78,7 @@ Invoice Extraction → Compliance Validation → Approval Decision
 - **Non-invoice:** `{"error":"No invoice - not supported yet"}`
 
 
-### Workflow Naming Convention
+## Workflow Naming Convention
 - Use descriptive names: `[Purpose]_[Type].json`
 - Example: `Customer_Onboarding_Agent.json`
 
